@@ -41,7 +41,7 @@ This initiative facilitates online appointment requests for clients or patients 
 | -------| -------| -------|
 | Email: `admin@edoc.com` | Email: `dr.raj@hospital.com` |   Email: `patient@edoc.com` | 
 | Password: `123` |  Password: `raj@1234` |  Password: `pat@123` |
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/img/Patient1img.png) |    ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)  |
+| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/img/Patient1img.png) |    ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/img/Doctor1img.png)  |
 
  
   
