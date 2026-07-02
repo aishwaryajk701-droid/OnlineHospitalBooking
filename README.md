@@ -61,21 +61,11 @@ This initiative facilitates online appointment requests for clients or patients 
 
 ## Screenshots
 
-| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(1).png) | ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(2).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(3).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(4).png)|
+| ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/admin(1).png) | ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/doc(1).pnghttps://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/pat(1).png)| ![]()| |
 |--------------| --------------|   --------------|  --------------|    
-|  ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(5).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(6).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(7).png)| ![](https://github.com/hshnudr/edoc-echanneling/blob/main/Screenshots/Screenshot%20(8).png)|
+|  ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/doc(2).png)| ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/pat(2).png)| ![](https://github.com/aishwaryajk701-droid/OnlineHospitalBooking/blob/main/Screenshots/pat(3).png)| |
 
-# The Project was developed using the following:
 
-Apache Version: 	`2.4.39`
-
-PHP Version: 		`7.3.5`
-
-Server Software: 	`Apache/2.4.39 (Win64) PHP/7.3.5`
-
-MySQL Version: 		`5.7.26`
-
-Demo video: https://youtu.be/mAWHYAHmit4
 
 
 
